@@ -61,7 +61,7 @@ You might fork a project to propose changes to the upstream, or original, reposi
 
 {% endwebui %}
 
-{% cli %}
+{% cli %,
 
 {% data reusables.cli.cli-learn-more %}
 
